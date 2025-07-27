@@ -3,7 +3,7 @@
 <p align="center">💻 Desenvolvedor Full Stack | 🧠 Especialista em ERP | ⚙️ Node.js | AngularJS |  React | SQL</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Transformando+complexidade+em+soluções+eficientes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=1200&lines=Transformando+ideias+em+código.+Criando+soluções+que+impactam." alt="Typing SVG" />
 </p>
 
 ---
