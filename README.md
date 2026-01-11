@@ -13,7 +13,7 @@
 <br>
 🔍 Passionate about system architecture, best development practices, and process automation
 <br>
-🧰 Familiar with **Delphi**, **PL/SQL**, **Docker**, **Git**, **Azure**, **SVN** and **Jest**
+🧰 Familiar with **Delphi**, **T/SQL**, **Docker**, **Git**, **Azure**, **SVN** and **Jest**
 <br>
 
 ---
@@ -34,7 +34,7 @@
 
 **Database:** 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-F80000?style=flat&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/-T/SQL-F80000?style=flat&logo=oracle&logoColor=white)
 
 **Version Control & DevOps:** 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
